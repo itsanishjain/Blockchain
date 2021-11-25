@@ -84,5 +84,5 @@ Save Address AND API in a file. You need them for the next steps.
 
 ## Final words
 
-I know it seems simple but we learn a lot. about Smart Contracts and Dapps. and basics of solodity.
+I know it seems simple but we learn a lot. about Smart Contracts and Dapps. and basics of solidity.
 there a tones of resource out there so I will try to share them.Thnaks
