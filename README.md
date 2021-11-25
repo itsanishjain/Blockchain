@@ -61,3 +61,19 @@ Save Address AND API in a file. You need them for the next steps.
 - Need a live server to run the Dapp
 - So install vscode extension "Live Server"
 - Click on live-server button at the bottom of the screen
+
+## References
+
+- ### Code
+
+  - https://github.com/BlockDevsUnited/BasicFrontEndTutorial
+
+- https://www.youtube.com/watch?v=M576WGiDBdQ [To learn how More about Solidity,Remix IDE,Metamask,Testnet Faucet]
+
+- follow this Guy
+  https://twitter.com/Haezurath
+
+## Thanks
+
+    https://twitter.com/Haezurath
+    Github Copilot for the amazing autocompletion
