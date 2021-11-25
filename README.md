@@ -1,5 +1,9 @@
 # How to create your first DAPP - Decentralized Application
 
+### Workign App
+
+https://itsanishjain.github.io/Blockchain/
+
 # Tools needed
 
 - Remix IDE
@@ -77,3 +81,8 @@ Save Address AND API in a file. You need them for the next steps.
 
     https://twitter.com/Haezurath
     Github Copilot for the amazing autocompletion
+
+## Final words
+
+I know it seems simple but we learn a lot. about Smart Contracts and Dapps. and basics of solodity.
+there a tones of resource out there so I will try to share them.Thnaks
